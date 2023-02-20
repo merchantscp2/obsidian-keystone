@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidian-keystone",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Uses the Keystone assmblers framework to convert assembly instructions to bytecode.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
